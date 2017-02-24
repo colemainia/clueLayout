@@ -9,3 +9,4 @@ A, Garage, Card
 H, Hall, Card
 C, Closet, Other
 W, Walkway, Other 
+checking for stuff
